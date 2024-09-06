@@ -1,2 +1,25 @@
 haystack-ai
 weave
+trafilatura
+python-dotenv
+transformers
+# farm-haystack
+ipywidgets
+langchain-core 
+langchain-community
+langchain-openai
+langgraph
+mathtools
+langchain-fireworks
+langchain
+pypdf
+faiss-cpu
+bs4
+langchain_experimental
+matplotlib
+numpy
+networkx
+evaluate
+trulens-eval
+haystack-ai
+weave
